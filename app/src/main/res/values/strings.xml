@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Tip Calculator</string>
+    <string name="title">Tip Calculator Pro</string>
+    <string name="bill_amount_label">Enter Bill Amount</string>
+    <string name="tip_amount_label">Tip (%)</string>
+    <string name="round_up_toggle_button_label">Round Up Tip ?</string>
+    <string name="final_tip">Tip you should pay : %s</string>
+</resources>
